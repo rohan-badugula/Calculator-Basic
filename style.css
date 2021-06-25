@@ -65,7 +65,7 @@ button:active {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
   }
   #screen {
-    width: 360px;
+    width: 290px;
     height: 70px;
     margin-bottom: 15px;
     font-size: 35px;
@@ -79,10 +79,10 @@ button:active {
   }
   button {
     font-family: "Roboto Mono", monospace;
-    width: 80px;
-    height: 69px;
+    width: 62px;
+    height: 59px;
     font-weight: bolder;
-    font-size: 23px;
+    font-size: 28px;
     border-radius: 15px;
     margin: 5px;
     cursor: pointer;
