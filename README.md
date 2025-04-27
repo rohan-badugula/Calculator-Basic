@@ -2,7 +2,7 @@
 
 A simple, responsive calculator built using HTML, CSS, and JavaScript. This project was developed as part of my academic coursework to strengthen my understanding of web development fundamentals.
 
-![Calculator Screenshot](./sample)
+![Calculator Screenshot](./sample.jpeg)
 
 ---
 
